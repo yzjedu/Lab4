@@ -1,11 +1,11 @@
 
 # Lab4 Mobile Subscription Fees
 
-## 🔴🔴 *DO NOT* Start to code before the instructor Approve your algorithm, and test cases 🔴🔴
+### 🔴🔴 *DO NOT* Start to code before the instructor Approve your algorithm, and test cases 🔴🔴
 - ### Grade: EMRN
 - ### Due: Before Next Lab
-- ### [Markdown Tutorual-1](https://www.youtube.com/shorts/-aSSrmAXHDg)
-- ### [Markdown Tutorual-2](https://www.youtube.com/shorts/0YLTInrkaHg)
+- ### [Markdown Tutorial-1](https://www.youtube.com/shorts/-aSSrmAXHDg)
+- ### [Markdown Tutorial-2](https://www.youtube.com/shorts/0YLTInrkaHg)
 - ### Use [markdown_basics file](markdown_cheatsheet.md) to write readable algorithm
 
 ## Problem: 
